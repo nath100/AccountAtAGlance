@@ -240,6 +240,16 @@
     <Content Include="Scripts\scene.tile.binder.js" />
     <Content Include="Scripts\scene.tile.formatter.js" />
     <Content Include="Scripts\scene.tile.renderer.js" />
+    <Content Include="Templates\AccountDetails.html" />
+    <Content Include="Templates\AccountPositions.html" />
+    <Content Include="Templates\Currencies.html" />
+    <Content Include="Templates\DOW.html" />
+    <Content Include="Templates\MarketNews.html" />
+    <Content Include="Templates\NASDAQ.html" />
+    <Content Include="Templates\Quote.html" />
+    <Content Include="Templates\SectorSummary.html" />
+    <Content Include="Templates\SP500.html" />
+    <Content Include="Templates\Video.html" />
     <Content Include="Unity.Mvc3.README.txt" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
